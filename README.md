@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Senbagarajan2807/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Senbagarajan2807/dsa-java/tree/master/0027-remove-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -34,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Senbagarajan2807/dsa-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
