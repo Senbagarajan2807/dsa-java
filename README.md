@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Senbagarajan2807/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1652-defuse-the-bomb](https://github.com/Senbagarajan2807/dsa-java/tree/master/1652-defuse-the-bomb) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Array
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Senbagarajan2807/dsa-java/tree/master/0027-remove-element) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1652-defuse-the-bomb](https://github.com/Senbagarajan2807/dsa-java/tree/master/1652-defuse-the-bomb) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
