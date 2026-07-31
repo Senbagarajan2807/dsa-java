@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Senbagarajan2807/dsa-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Senbagarajan2807/dsa-java/tree/master/1652-defuse-the-bomb) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
