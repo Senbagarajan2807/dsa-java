@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Senbagarajan2807/dsa-java/tree/master/0242-valid-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Senbagarajan2807/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Senbagarajan2807/dsa-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Senbagarajan2807/dsa-java/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Senbagarajan2807/dsa-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Senbagarajan2807/dsa-java/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
