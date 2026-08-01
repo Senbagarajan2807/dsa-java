@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Senbagarajan2807/dsa-java/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Senbagarajan2807/dsa-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
@@ -51,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
