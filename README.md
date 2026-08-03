@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
+| [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Senbagarajan2807/dsa-java/tree/master/1652-defuse-the-bomb) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
@@ -65,4 +66,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
+| [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
