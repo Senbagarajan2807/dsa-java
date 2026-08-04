@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Senbagarajan2807/dsa-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senbagarajan2807/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Senbagarajan2807/dsa-java/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senbagarajan2807/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +77,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senbagarajan2807/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
