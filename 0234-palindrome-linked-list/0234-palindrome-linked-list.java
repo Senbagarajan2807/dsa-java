@@ -15,7 +15,7 @@ class Solution {
         if (head == null || head.next == null)
             return true;
 
-        // Find middle
+       
         ListNode slow = head;
         ListNode fast = head;
 
@@ -24,10 +24,10 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // Reverse second half
+      
         ListNode secondHalf = reverse(slow.next);
 
-        // Compare
+      
         ListNode p1 = head;
         ListNode p2 = secondHalf;
 
