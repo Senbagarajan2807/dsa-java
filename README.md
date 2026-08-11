@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/Senbagarajan2807/dsa-java/tree/master/1652-defuse-the-bomb) |
 | [1920-build-array-from-permutation](https://github.com/Senbagarajan2807/dsa-java/tree/master/1920-build-array-from-permutation) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
