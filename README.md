@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Senbagarajan2807/dsa-java/tree/master/1652-defuse-the-bomb) |
+| [1920-build-array-from-permutation](https://github.com/Senbagarajan2807/dsa-java/tree/master/1920-build-array-from-permutation) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Senbagarajan2807/dsa-java/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Senbagarajan2807/dsa-java/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Senbagarajan2807/dsa-java/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
