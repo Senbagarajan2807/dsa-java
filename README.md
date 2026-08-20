@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0013-roman-to-integer](https://github.com/Senbagarajan2807/dsa-java/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
