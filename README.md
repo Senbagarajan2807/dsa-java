@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Senbagarajan2807/dsa-java/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senbagarajan2807/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Senbagarajan2807/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/Senbagarajan2807/dsa-java/tree/master/0877-stone-game) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Senbagarajan2807/dsa-java/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Senbagarajan2807/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senbagarajan2807/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Senbagarajan2807/dsa-java/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/Senbagarajan2807/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Senbagarajan2807/dsa-java/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Senbagarajan2807/dsa-java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Senbagarajan2807/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Senbagarajan2807/dsa-java/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Senbagarajan2807/dsa-java/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/Senbagarajan2807/dsa-java/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/Senbagarajan2807/dsa-java/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Senbagarajan2807/dsa-java/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Senbagarajan2807/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Senbagarajan2807/dsa-java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Senbagarajan2807/dsa-java/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
